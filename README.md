@@ -11,8 +11,10 @@
 1. Ruby + Rails
 2. iOS + Objective-C
 3. Android + Java
-1. Git
-2. REST APIs
+1. TDD + RSpec
+2. Git
+3. REST APIs
+
 
 ------
 
