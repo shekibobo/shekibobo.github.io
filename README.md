@@ -22,7 +22,7 @@
 
 **Software Engineer** at [***Maestro***](http://meetmaestro.com) *2011 to present*
 Designed and built the web API, CMS, and Android client for [Rally](http://getrally.com/).
-Developed the API and administration system for a large-scale corporate interactive learning program.
+Developed the API and administration system for a large-scale corporate learning program.
 Built the crowdfunding website [impactmyteam.com](impactmyteam.com).
 Built the Amway Credibility application for [Android](https://play.google.com/store/apps/details?id=com.maestromobile.amway.am07) and [iOS](https://itunes.apple.com/us/app/amway-credibility/id501806153?mt=8).
 Developed large-scale web applications with comprehensive test suites using RSpec.
