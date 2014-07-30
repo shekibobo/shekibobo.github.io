@@ -127,10 +127,14 @@ ul {
     margin: 0;
     padding: 0;
     list-style: none;
+    overflow: auto;
 }
 ul li {
-    margin: 0;
+    margin: 0 10px 0 0;
     padding: 0;
+}
+ul li:nth-child(3n+3) {
+    margin: 0;
 }
 
 ul li p {
@@ -200,7 +204,7 @@ dl {
         margin: .15em 0 .5em;
         font-style: bold;
     }
-    
+
 }
 
 

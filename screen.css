@@ -89,7 +89,7 @@
         letter-spacing: 2px;
         font-weight: normal;
     }
-    
+
     h3 {
         float: left;
         width: 16%;
@@ -99,15 +99,15 @@
         float: left;
         margin-left: 16%;
     }
-    
+
     h3+p {
         margin-left: inherit;
         float: left;
         width: 84%;
     }
-    
+
     ul li {
-        width: 28%;
+        width: 32%;
         float: left;
     }
     ul dl {
@@ -137,7 +137,7 @@
     ol li:nth-child(1), ol li:nth-child(2), ol li:nth-child(3) {
         border-top: none;
     }
-    
+
     dl {
         margin: .5em 0 0;
         dt {
@@ -152,7 +152,7 @@
             font-size: 130%;
             font-style: normal;
         }
-        
+
     }
 
 
