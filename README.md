@@ -1,8 +1,8 @@
 # Joshua Kovach
 ## Software Engineer
 
-> [https://github.com/shekibobo](https://github.com/shekibobo)
 > [kovach.jc@gmail.com](mailto:kovach.jc@gmail.com)
+> [https://github.com/shekibobo](https://github.com/shekibobo)
 
 ------
 
@@ -43,17 +43,20 @@ Wrote the weekly crossword puzzle.
 
 ### Projects
 
+**Michigan Outdoors** *Code Michigan 2014*
+Won 2nd place in regional coding competition.
+Lead a team of four developing an Android app to aid in finding local state attractions.
+Integrated with [data.michigan.gov](http://data.michigan.gov) APIs using RxJava.
+
 [**Haiti Needs You**](http://haitineedsyou.com) *Grand Rapids GiveCamp 2013*
 Led the team to rebuild the website for the non-profit *Haiti Needs You*.
 Redesigned the site for a more user-friendly experience.
-Integrated newsletters, mailing lists, and social media.
-Integrated a user-friendly donation form through PayPal.
+Integrated newsletters, mailing lists, social media, and PayPal donations.
 
 [**Grand Rapids Creative Youth Center**](http://www.creativeyouthcenter.org) *Grand Rapids GiveCamp 2012*
 Created a student-tutor progress tracking system for the *Grand Rapids Creative Youth Center*.
 Allowed students to sign in and out of tutoring sessions.
 Allowed tutors to rate student progress and compare across multiple sessions.
-Provide overviews of student progress.
 
 ------
 
