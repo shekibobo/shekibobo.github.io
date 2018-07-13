@@ -224,6 +224,7 @@ dl {
 
 .daterange {
   font-style: italic;
+  font-size: 0.8rem;
 }
 
 .job-title {
@@ -233,4 +234,8 @@ dl {
 a.company {
   font-weight: bold;
   font-style: italic;
+}
+
+.job .responsibility {
+  font-size: 0.8rem;
 }
