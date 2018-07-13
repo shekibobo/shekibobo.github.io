@@ -217,3 +217,20 @@ dl {
     font-size: 11px;
     text-align: center;
 }
+
+.hidden {
+  display: none;
+}
+
+.daterange {
+  font-style: italic;
+}
+
+.job-title {
+  font-weight: bold;
+}
+
+a.company {
+  font-weight: bold;
+  font-style: italic;
+}
